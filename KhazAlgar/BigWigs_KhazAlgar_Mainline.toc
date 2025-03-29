@@ -16,7 +16,7 @@
 ## Notes-esES: BigWigs Khaz Algar Modules
 ## Notes-esMX: BigWigs Khaz Algar Modules
 ## Notes-frFR: BigWigs Khaz Algar Modules
-## Notes-itIT: BigWigs Khaz Algar Modules
+## Notes-itIT: Moduli BigWigs per Khaz Algar
 ## Notes-koKR: BigWigs Khaz Algar Modules
 ## Notes-ptBR: BigWigs Khaz Algar Modules
 ## Notes-ruRU: BigWigs Khaz Algar Modules

@@ -68,7 +68,7 @@ L.you_die_sec = "Morirai in %d sec" -- "You die in 15 sec" (sec = seconds)
 L.next_ability = "Prossima abilità" -- We don't know what ability will be next, we only know when it will happen (showing a bar)
 L.landing = "%s sta atterrando" -- "NPC_NAME is landing" Used when a flying NPC/dragon/boss is landing
 L.flying_available = "Adesso puoi volare"
---L.bosses_too_close = "Bosses are too close" -- When 2 or more bosses are too close to each other, buffing each other with a shield, extra damage, etc.
+L.bosses_too_close = "I boss sono troppo vicini" -- When 2 or more bosses are too close to each other, buffing each other with a shield, extra damage, etc.
 
 -- Add related
 L.add_spawned = "Add Apparso" -- singular
@@ -104,10 +104,10 @@ L.crenna = "Figlia della Terra Crenna" -- AI druid healer (NPC 209072)
 L.crenna_short = "*Crenna"
 L.austin = "Austin Huxworth" -- AI hunter dps (NPC 209065)
 L.austin_short = "*Austin"
---L.breka = "Warlord Breka Grimaxe" -- AI warrior tank (NPC 215517)
---L.breka_short = "*Breka"
---L.henry = "Henry Garrick" -- AI priest healer (NPC 215011)
---L.henry_short = "*Henry"
+L.breka = "Signora della Guerra Breka Asciaferoce" -- AI warrior tank (NPC 215517)
+L.breka_short = "*Breka"
+L.henry = "Henry Garrick" -- AI priest healer (NPC 215011)
+L.henry_short = "*Henry"
 
 -- Localizers note:
 -- The default mod:Berserk(600) uses spell ID 26662 to get the Berserk name

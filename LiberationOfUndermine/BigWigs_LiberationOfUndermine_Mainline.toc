@@ -16,7 +16,7 @@
 ## Notes-esES: BigWigs Liberation of Undermine Modules
 ## Notes-esMX: BigWigs Liberation of Undermine Modules
 ## Notes-frFR: BigWigs Liberation of Undermine Modules
-## Notes-itIT: BigWigs Liberation of Undermine Modules
+## Notes-itIT: Moduli BigWigs per Liberazione di Cavafonda
 ## Notes-koKR: BigWigs Liberation of Undermine Modules
 ## Notes-ptBR: BigWigs Liberation of Undermine Modules
 ## Notes-ruRU: BigWigs Liberation of Undermine Modules
